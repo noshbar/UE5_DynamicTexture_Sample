@@ -37,8 +37,8 @@ Unreal will do its thing, then should show you your files within Visual Studio
 ### Implement the rest of the Owl
 
 - copy the source from the repo into whatever files you've created
-- [DynamicTextureComponent.cpp](src\DynamicTexturePlugin\Source\DynamicTexturePlugin\Private\DynamicTextureComponent.cpp)
-- [DynamicTextureComponent.h](src\DynamicTexturePlugin\Source\DynamicTexturePlugin\Public\DynamicTextureComponent.cpp)
+- [DynamicTextureComponent.cpp](src/DynamicTexturePlugin/Source/DynamicTexturePlugin/Private/DynamicTextureComponent.cpp)
+- [DynamicTextureComponent.h](src/DynamicTexturePlugin/Source/DynamicTexturePlugin/Public/DynamicTextureComponent.h)
 
 ### Create a texture to use as a source
 
